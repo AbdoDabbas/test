@@ -1,0 +1,14 @@
+{
+  "name": "testBower",
+  "authors": [
+    "a.dabbas <a.dabbas@idscan.eu>"
+  ],
+  "description": "",
+  "dependencies": {
+  },
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
