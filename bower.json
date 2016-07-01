@@ -1,6 +1,6 @@
 {
-  "name": "test_package",
-  "version": "1.0.1",
+  "name": "TestPackage",
+  "version": "1.0.3",
   "authors": [
     "a.dabbas <a.dabbas@idscan.eu>"
   ],
