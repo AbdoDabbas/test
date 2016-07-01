@@ -1,16 +1,14 @@
 {
-  "name": "testBower",
-  "version":"1.0.0",
+  "name": "test_package",
+  "version": "1.0.0",
   "authors": [
     "a.dabbas <a.dabbas@idscan.eu>"
   ],
   "description": "",
-  "dependencies": {
-    
-  },
+  "dependencies": {},
   "main": "",
   "moduleType": [],
-  "license": "MIT",
+  "license": "u",
   "homepage": "",
   "private": true
 }
