@@ -1,10 +1,12 @@
 {
   "name": "testBower",
+  "version":"1.0.0",
   "authors": [
     "a.dabbas <a.dabbas@idscan.eu>"
   ],
   "description": "",
   "dependencies": {
+    
   },
   "main": "",
   "moduleType": [],
