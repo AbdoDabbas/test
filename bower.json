@@ -7,6 +7,10 @@
   "description": "",
   "dependencies": {},
   "main": "",
+  "ignore": [
+    "*.txt",
+    "extrFolder/**"
+  ],
   "moduleType": [],
   "license": "u",
   "homepage": "",
