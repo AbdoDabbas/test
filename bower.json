@@ -10,7 +10,7 @@
   "ignore": [
     "*.txt",
     "extrFolder/*.*",
-	"./extrFolder",
+	"extrFolder",
 	".bowerrc",
 	".gitignore",
 	".jshintignore",
