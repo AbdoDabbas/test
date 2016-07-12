@@ -8,8 +8,16 @@
   "dependencies": {},
   "main": "",
   "ignore": [
-    "*.txt",
-    "extrFolder/*.*"
+    // "*.txt",
+    // "extrFolder/*.*",
+	".bowerrc",
+	".gitignore",
+	".jshintignore",
+	".jshintrc",
+	"bower.json",
+	"gruntfile.js",
+	"package.json",
+	"README.md"
   ],
   "moduleType": [],
   "license": "u",
