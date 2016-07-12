@@ -9,7 +9,7 @@
   "main": "",
   "ignore": [
     "*.txt",
-    "extrFolder/**"
+    "extrFolder/*.*"
   ],
   "moduleType": [],
   "license": "u",
