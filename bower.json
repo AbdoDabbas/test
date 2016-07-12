@@ -8,13 +8,11 @@
   "dependencies": {},
   "main": "",
   "ignore": [
-    // "*.txt",
-    // "extrFolder/*.*",
 	".bowerrc",
 	".gitignore",
 	".jshintignore",
 	".jshintrc",
-	// "bower.json",
+	"bower.json",
 	"gruntfile.js",
 	"package.json",
 	"README.md"
