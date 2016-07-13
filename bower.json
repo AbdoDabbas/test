@@ -9,7 +9,6 @@
   "main": "",
   "ignore": [
     "*.txt",
-    "extrFolder/*.*",
     "extrFolder",
     ".bowerrc",
     ".gitignore",
