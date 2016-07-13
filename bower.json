@@ -1,6 +1,6 @@
 {
   "name": "TestPackage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "authors": [
     "a.dabbas <a.dabbas@idscan.eu>"
   ],
@@ -10,15 +10,15 @@
   "ignore": [
     "*.txt",
     "extrFolder/*.*",
-	"extrFolder",
-	".bowerrc",
-	".gitignore",
-	".jshintignore",
-	".jshintrc",
-	"bower.json",
-	"gruntfile.js",
-	"package.json",
-	"README.md"
+    "extrFolder",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
   ],
   "moduleType": [],
   "license": "u",
